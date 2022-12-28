@@ -11,7 +11,7 @@
 
 $srv = "server-name" # Имя сервера, на котором запущена серверная часть
 
-$trigger = "150" # Mbits/sec # Триггерное значение (в Mbits/sec), для отправки оповещения
+$trigger = "150" # Триггерное значение (в Mbits/sec), для отправки оповещения
 
 $token_bot = "5517149522:AAFop4_darMpTT7VgLpY2hjkDkkV1dzmGNM" # Токен вашего бота в Telegram
 
