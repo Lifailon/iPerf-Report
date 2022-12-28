@@ -11,11 +11,11 @@
 
 $srv = "server-name" # Имя сервера, на котором запущена серверная часть
 
-$trigger = "150" # Триггерное значение (в Mbits/sec), для отправки оповещения
+$trigger = "150" # Триггерное значение (условие, в Mbits/sec), для отправки оповещения
 
-$token_bot = "5517149522:AAFop4_darMpTT7VgLpY2hjkDkkV1dzmGNM" # Токен вашего бота в Telegram
+$token_bot = "" # Токен вашего бота в Telegram
 
-$id_chat = "-609779646" # id чата Telegram, для отправки уведомления
+$id_chat = "" # id чата Telegram, для отправки уведомления
 
 **Результаты измерения логируются, после каждого запуска:**
 ![Image alt](https://github.com/Lifailon/iPerf-Report/blob/rsa/Screen/iperf-log.jpg)
