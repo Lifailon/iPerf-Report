@@ -1,6 +1,6 @@
 ## iPerf-Report - применимо для измерения канала связи внутри туннеля (ipsec/gre) и оповещении в случае низкой скорости.
 
-![Image alt](https://github.com/Lifailon/DNS-Change-Tray/blob/rsa/Screen/IP-Configuration.jpg)
+![Image alt](https://github.com/Lifailon/iPerf-Report/blob/rsa/Screen/Telegram-Report-150Mbits.jpg)
 
 Для измерения применяется [iperf3](https://github.com/esnet/iperf).
 
