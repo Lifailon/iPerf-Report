@@ -20,9 +20,11 @@ $id_chat = "" # id чата Telegram, для отправки уведомлен
 > Передается 1100 Mbytes в обе стороны, если будет использоваться меньше, необходимо заменить в скрипте GBytes на MBytes для корректного парсинга вывода.
 
 **После каждого запуска, результаты измерения логируются:**
+
 ![Image alt](https://github.com/Lifailon/iPerf-Report/blob/rsa/Screen/iperf-log.jpg)
 
 Для тестирования вывода в консоль: **iperf-Client-Report-Write-Host.ps1**
+
 ![Image alt](https://github.com/Lifailon/iPerf-Report/blob/rsa/Screen/Write-Host-155Mbits.jpg)
 
 **В дальнейшем добавлю скрипты bash и шаблон Zabbix**
