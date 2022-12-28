@@ -1,8 +1,8 @@
-## iPerf-Report - применяется для измерения канала связи внутри туннеля (ipsec/gre) и оповещении в Telegram, в случае падения скорости, ниже указанного значения.
+## iPerf-Report - реализация измерения канала связи внутри туннеля ipsec/gre с отправкой оповещений в Telegram, в случае падения скорости ниже указанного значения.
 
 ![Image alt](https://github.com/Lifailon/iPerf-Report/blob/rsa/Screen/Telegram-Report-150Mbits.jpg)
 
-Для измерения применяется [iperf3](https://github.com/esnet/iperf).
+Для измерения используется [iperf3](https://github.com/esnet/iperf).
 
 **Требования:**
 * Два сервера на базе Windows.
